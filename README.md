@@ -10,7 +10,7 @@ https://localhost:62254/swagger/index.html
 
 
 ## SQL Server
-Please find the DB Script file you direct run on SQL Server
+Please find the DB Script file direct run on SQL Server
 
 
 ## Input CSV Files
