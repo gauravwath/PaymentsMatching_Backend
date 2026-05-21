@@ -1,0 +1,6 @@
+orderId,amount,currency
+ORD-1,100,INR
+ORD-2,180,INR
+ORD-3,150,USD
+ORD-4,,INR 
+ORD-5,130,INR 
